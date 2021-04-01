@@ -55,3 +55,4 @@ if __name__ =='__main__':
         print('Game Over!')
     else:
         print('You Won!')
+    print(f'Answer is -{usr_guess_word}')
