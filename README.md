@@ -9,3 +9,4 @@ Repository of 100 days of Python Coding from Udemy
 * Day 6 : Loops Concepts (No Coding)
 * Day 7 : Hangman Game using Control Flow and Logical Operators, Randomisation and Python Lists and Python Loops
 * Day 8 : Learn more about function and build a Caeser Cipher encryption application
+* Day 9 : Built Secret Auction Bidding Application
