@@ -11,3 +11,4 @@ Repository of 100 days of Python Coding from Udemy
 * Day 8  : Learn more about function and build a Caeser Cipher encryption application
 * Day 9  : Built Secret Auction Bidding Application
 * Day 10 : Built Calculator to perform math operation on 2 numbers using the concepts of functions and dictionary
+* day 11 : Built a Number guessing game (ASCII for logo - http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
